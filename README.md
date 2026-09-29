@@ -39,10 +39,16 @@
 
 1. 반드시 **관리자 권한(Administrator)**으로 프로그램을 실행해야 Windows 시스템 폴더(`C:\Windows\Fonts`)와 레지스트리(`HKEY_LOCAL_MACHINE`)에 폰트를 등록할 수 있습니다.
    * 프로그램 실행 파일 우클릭 👉 **[관리자 권한으로 실행]** 선택
-   <img width="1357" height="713" alt="image" src="https://github.com/user-attachments/assets/09aa4e90-a916-4f0e-b1d9-903b75d776dc" />
-
 
 2. **[폴더 선택]** 버튼을 눌러 폰트가 들어있는 폴더를 지정합니다.
 3. 필요한 정리 옵션(압축 해제 여부 등)을 체크한 뒤 **[윈도우에 폰트 자동 설치 시작]** 버튼을 누릅니다.
-<img width="896" height="932" alt="image" src="https://github.com/user-attachments/assets/b06f8a14-81fc-4978-86e1-eea08c4680dc" />
+
+<table>
+ <tr>
+  <td>
+   <img alt="실행 파일 관리자 권한으로 실행 방법" src="https://github.com/user-attachments/assets/09aa4e90-a916-4f0e-b1d9-903b75d776dc" /></td>
+  <td><img alt="FontManager 사용 방법" src="https://github.com/user-attachments/assets/b06f8a14-81fc-4978-86e1-eea08c4680dc" /></td>
+ </tr>
+</table>
+
 
